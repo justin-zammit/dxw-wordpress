@@ -1,4 +1,5 @@
 <?php
+// RSS Feed implementation.
 include_once( ABSPATH . WPINC . '/feed.php' );
 
 $args = array(
